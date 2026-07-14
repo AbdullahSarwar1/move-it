@@ -2,8 +2,6 @@
 
 **Move It** is a modern, fully responsive landing page designed for a professional moving and logistics startup. This project showcases structured modern semantic HTML5 styled entirely with **Bootstrap 5**, utilizing fluid grid layouts, interactive media components, and clean modern typography.
 
----
-
 ## Live Preview Layout
 The landing page includes the following main sections:
 *   **Dynamic Navigation Header:** An interactive responsive navbar containing a brand identifier, multi-level dropdowns, and an inline Postcode checking field.
@@ -11,8 +9,6 @@ The landing page includes the following main sections:
 *   **Key Value Features:** A 3-column features row displaying core brand standards (*Professional*, *Countrywide*, *Personal Touch*) with responsive iconography.
 *   **Interactive Image Carousel:** A fully responsive Bootstrap 5 carousel showcasing interactive action/customer images.
 *   **Multi-Column Footer:** Structured secondary navigation blocks categorized by page utility sections.
-
----
 
 ## Built With
 
